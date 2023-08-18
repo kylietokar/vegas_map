@@ -1,4 +1,4 @@
-{
+var json_VegasHotelsandCasinosPolygons_1 = {
 "type": "FeatureCollection",
 "name": "Vegas Hotels and Casinos (Polygons)",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
